@@ -1,0 +1,2 @@
+cd workspace/Introduction-To-Java-Homework
+java -cp Problem10-Jar-archive-console-execution/GeneratePDF.jar:lib/itextpdf-5.5.2.jar Problem09GeneratePDF

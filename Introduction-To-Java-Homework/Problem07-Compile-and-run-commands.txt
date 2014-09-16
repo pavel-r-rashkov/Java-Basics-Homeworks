@@ -1,0 +1,3 @@
+cd workspace/Introduction-To-Java-Homework/src
+javac Problem06SumTwoNumbers.java
+java Problem06SumTwoNumbers
